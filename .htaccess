@@ -1,0 +1,8 @@
+<Files .env>
+order allow,deny
+Deny from all
+</Files>
+<Files *.ini>
+order allow,deny
+Deny from all
+</Files>
